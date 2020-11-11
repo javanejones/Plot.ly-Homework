@@ -1,3 +1,5 @@
+Deployment link: https://javanejones.github.io/Plot.ly-Homework/  
+
 # Plot.ly Homework - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
